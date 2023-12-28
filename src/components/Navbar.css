@@ -1,0 +1,22 @@
+.TopBar{
+    box-shadow: -20px 0px 10px 10px gray;
+}
+
+.navBarItems{
+    list-style: none;
+    text-align: center;
+}
+
+.navBarLinks{
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    padding:15px 45px;
+    border-radius: 8px;
+}
+
+.loginBtn, .SignupBtn{
+    background-color: green;
+    color: white;
+    padding: 5px 20px;
+}
